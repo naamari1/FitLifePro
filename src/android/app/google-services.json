@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "871908842328",
+    "project_id": "fitness-planner-5712b",
+    "storage_bucket": "fitness-planner-5712b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871908842328:android:3b2e59b8a3e55d9ba7a32d",
+        "android_client_info": {
+          "package_name": "com.example.fitness_planner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCISn-lejuJFbU14LZjd83lAxCN36K7jz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
